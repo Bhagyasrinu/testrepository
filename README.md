@@ -1,2 +1,3 @@
 # testrepository
-testing git-now i added some lines of coden for testing
+testing git-now i created first branch from master
+i created second branch from master
